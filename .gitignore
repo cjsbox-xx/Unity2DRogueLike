@@ -1,9 +1,9 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
+UnityProjects/RogueLike2D/[Ll]ibrary/
+UnityProjects/RogueLike2D/[Tt]emp/
+UnityProjects/RogueLike2D/[Oo]bj/
+UnityProjects/RogueLike2D/[Bb]uild/
+UnityProjects/RogueLike2D/[Bb]uilds/
+UnityProjects/RogueLike2D/Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
 /.vs/
